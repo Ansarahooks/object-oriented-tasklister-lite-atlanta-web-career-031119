@@ -14,7 +14,6 @@ class TaskList {
 
   render =()=>{
     let div = document.querySelector('#list')
-
     if (div.hasChildNodes()) {
       let ul = div.querySelector("ul")
       ul.innerHTML = ''

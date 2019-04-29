@@ -6,6 +6,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Add Form Behavior Here!
   document.getElementById('create-task-form').addEventListener('submit', handleSubmit)
+
   // renderApp()
 });
 
